@@ -10,7 +10,7 @@ export default function Home() {
     <div className={styles.page}>
       <main>
         
-        <Botao />
+        
     
       </main>
     </div>
